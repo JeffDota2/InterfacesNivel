@@ -1,0 +1,13 @@
+C:\Users\Jefferson\TreaThisDos\This_Deber\bin\Debug\netcoreapp3.1\This_Deber.exe
+C:\Users\Jefferson\TreaThisDos\This_Deber\bin\Debug\netcoreapp3.1\This_Deber.deps.json
+C:\Users\Jefferson\TreaThisDos\This_Deber\bin\Debug\netcoreapp3.1\This_Deber.runtimeconfig.json
+C:\Users\Jefferson\TreaThisDos\This_Deber\bin\Debug\netcoreapp3.1\This_Deber.runtimeconfig.dev.json
+C:\Users\Jefferson\TreaThisDos\This_Deber\bin\Debug\netcoreapp3.1\This_Deber.dll
+C:\Users\Jefferson\TreaThisDos\This_Deber\bin\Debug\netcoreapp3.1\This_Deber.pdb
+C:\Users\Jefferson\TreaThisDos\This_Deber\obj\Debug\netcoreapp3.1\This_Deber.csprojAssemblyReference.cache
+C:\Users\Jefferson\TreaThisDos\This_Deber\obj\Debug\netcoreapp3.1\This_Deber.AssemblyInfoInputs.cache
+C:\Users\Jefferson\TreaThisDos\This_Deber\obj\Debug\netcoreapp3.1\This_Deber.AssemblyInfo.cs
+C:\Users\Jefferson\TreaThisDos\This_Deber\obj\Debug\netcoreapp3.1\This_Deber.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\TreaThisDos\This_Deber\obj\Debug\netcoreapp3.1\This_Deber.dll
+C:\Users\Jefferson\TreaThisDos\This_Deber\obj\Debug\netcoreapp3.1\This_Deber.pdb
+C:\Users\Jefferson\TreaThisDos\This_Deber\obj\Debug\netcoreapp3.1\This_Deber.genruntimeconfig.cache
